@@ -9,7 +9,8 @@ You can use the [Calypso Bot Invite Link!](https://discordapp.com/oauth2/authori
 
 Calypso Is a bot that will help anyone that is in need of helping out. This bot is ONLY in beta and will not come out of beta for a while.
 
-
+### Command Prefix
+Command Preifx ">"
 
 ### Updates:
 - **Updated to Version 0.7.2**: Added a new command called "Ask". More bug fixes and font updates!
@@ -32,4 +33,4 @@ Calypso Is a bot that will help anyone that is in need of helping out. This bot 
 
 ### Support or Contact
 
-Issues with the page? Please email **Info.CalypsoBot@gmail.com**
+Issues with the page or bot? Please email **Info.CalypsoBot@gmail.com**
