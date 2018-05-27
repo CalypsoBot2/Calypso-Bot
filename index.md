@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Calypso Bot Website!
 
 You can use the [Calypso Bot Invite Link!](https://discordapp.com/oauth2/authorize?client_id=439971721173270530&scope=bot) to invite "Calypso to your server!
 [Second Link](https://discordapp.com/oauth2/authorize?client_id=439971721173270530&scope=bot)
