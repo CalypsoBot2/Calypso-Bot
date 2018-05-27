@@ -1,37 +1,24 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CalypsoBot2/bot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://discordapp.com/oauth2/authorize?client_id=439971721173270530&scope=bot) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Calypso Is a bot that will help anyone that is in need of helping out. This bot is ONLY in beta and will not come out of beta for a while.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Updates:
 
-1. Numbered
-2. List
+ - **Updated to Version 0.7.1**: Deleted PURGE command untill further notice, extremely buggy and wil not return for a few weeks!
+ - **Updated to Version 0.7.0**: Added the PURGE command, please dont abuse this! Fixed more font also.
+ - **Updated to Version 0.5.1**:  Smashed some bugs that were crawling through the code by bugging out the bot!
+ - **Updated to Version 0.5**:  'An Economy command was added, type >daily to get your free 25$ every 24 hours!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CalypsoBot2/bot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Issues with the page? Please email **Info.CalypsoBot@gmail.com**
