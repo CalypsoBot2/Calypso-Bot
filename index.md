@@ -19,10 +19,8 @@ Calypso Is a bot that will help anyone that is in need of helping out. This bot 
  - **Updated to Version 0.5**:  'An Economy command was added, type >daily to get your free 25$ every 24 hours!
 
 ##Social Media:
-[Twitter](https://twitter.com/CalypsoBot)
-[FaceBook](Coming SOON!)
-[Instagram](NOT YET DECIDED YET!)
-[Owner of Bots Discord](Czarcasm2@9924)
+- [Twitter](https://twitter.com/CalypsoBot)
+
 
 
 ### Support or Contact
