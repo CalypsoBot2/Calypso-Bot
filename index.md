@@ -12,7 +12,7 @@ Calypso Is a bot that will help anyone that is in need of helping out. This bot 
 
 
 ### Updates:
-
+- **Updated to Version 0.7.2**: Added a new command called "Ask". More bug fixes and font updates!
  - **Updated to Version 0.7.1**: Deleted PURGE command untill further notice, extremely buggy and wil not return for a few weeks!
  - **Updated to Version 0.7.0**: Added the PURGE command, please dont abuse this! Fixed more font also.
  - **Updated to Version 0.5.1**:  Smashed some bugs that were crawling through the code by bugging out the bot!
