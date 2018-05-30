@@ -7,12 +7,13 @@ You can use the [Calypso Bot Invite Link!](https://discordapp.com/oauth2/authori
 
 ### Calypso Description
 
-Calypso Is a bot that will help anyone that is in need of helping out. This bot is ONLY in beta and will not come out of beta for a while.
+Calypso is a bot that will help anyone that is in need of helping out. This bot is ONLY in beta and will not come out of beta for a while.
 
 ### Command Prefix
 Command Preifx ">"
 
 ### Updates:
+- **Updated to Version 0.7.3**: Issues a new comamnd call "**>userinfo**", this update will include just your profile not others. User mentions will come soon or later. 
 - **Updated to Version 0.7.2**: Added a new command called "Ask". More bug fixes and font updates!
  - **Updated to Version 0.7.1**: Deleted PURGE command untill further notice, extremely buggy and wil not return for a few weeks!
  - **Updated to Version 0.7.0**: Added the PURGE command, please dont abuse this! Fixed more font also.
