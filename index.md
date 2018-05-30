@@ -14,11 +14,11 @@ Command Preifx ">"
 
 ### Updates:
 - **Updated to Version 0.7.3**: Issues a new comamnd call "**>userinfo**", this update will include just your profile not others. User mentions will come soon or later. 
-- **Updated to Version 0.7.2**: Added a new command called "Ask". More bug fixes and font updates!
- - **Updated to Version 0.7.1**: Deleted PURGE command untill further notice, extremely buggy and wil not return for a few weeks!
- - **Updated to Version 0.7.0**: Added the PURGE command, please dont abuse this! Fixed more font also.
+- **Updated to Version 0.7.2**: Added a new command called "**>Ask**", alo more bug fixes and font updates!
+ - **Updated to Version 0.7.1**: Deleted "**>PURGE**" command untill further notice, extremely buggy and wil not return for a few weeks!
+ - **Updated to Version 0.7.0**: Added the "**>PURGE**" command, please dont abuse this! Fixed more font also.
  - **Updated to Version 0.5.1**:  Smashed some bugs that were crawling through the code by bugging out the bot!
- - **Updated to Version 0.5**:  'An Economy command was added, type >daily to get your free 25$ every 24 hours!
+ - **Updated to Version 0.5**:  'An Economy command was added, type "**>Daily**" to get your free 25$ every 24 hours!
 
 ### Social Media:
 - [Twitter](https://twitter.com/CalypsoBot)
