@@ -13,6 +13,7 @@ Calypso is a bot that will help anyone that is in need of helping out. This bot 
 Command Preifx ">"
 
 ### Updates:
+- **Updated Website Version to 0.1.2**: Fixed fonts and text issues and added a few links that were not working. 
 - **Updated to Version 0.7.3**: Issues a new comamnd call "**>userinfo**", this update will include just your profile not others. User mentions will come soon or later. 
 - **Updated to Version 0.7.2**: Added a new command called "**>Ask**", alo more bug fixes and font updates!
  - **Updated to Version 0.7.1**: Deleted "**>PURGE**" command untill further notice, extremely buggy and wil not return for a few weeks!
