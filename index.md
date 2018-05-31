@@ -5,11 +5,11 @@ You can use the [Calypso Bot Invite Link!](https://discordapp.com/oauth2/authori
 
 
 
-### Calypso Description
+### Calypso Description:
 
 Calypso is a bot that will help anyone that is in need of helping out. This bot is ONLY in beta and will not come out of beta for a while.
 
-### Command Prefix
+### Command Prefix:
 Command Preifx ">"
 
 ### Updates:
@@ -18,7 +18,7 @@ Command Preifx ">"
  - **Updated to Version 0.7.1**: Deleted "**>PURGE**" command untill further notice, extremely buggy and wil not return for a few weeks!
  - **Updated to Version 0.7.0**: Added the "**>PURGE**" command, please dont abuse this! Fixed more font also.
  - **Updated to Version 0.5.1**:  Smashed some bugs that were crawling through the code by bugging out the bot!
- - **Updated to Version 0.5**:  'An Economy command was added, type "**>Daily**" to get your free 25$ every 24 hours!
+ - **Updated to Version 0.5**:  'An economy command was added, type "**>Daily**" to get your free 25$ every 24 hours!
 
 ### Social Media:
 - [Twitter](https://twitter.com/CalypsoBot)
@@ -26,8 +26,8 @@ Command Preifx ">"
 
 
 
-### Discord Support Server
-- [Calypso's Server](https://discord.gg/yds582b)
+### Discord Support Server:
+- [Calypso's Support Server](https://discord.gg/yds582b)
 
 
 
